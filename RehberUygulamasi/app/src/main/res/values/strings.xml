@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RehberUygulamasi</string>
+    <string name="first_screen_title">Kisiler</string>
+    <string name="save_title">Kisi Kayit</string>
+    <string name="tf_name_label">Kisi Ad</string>
+    <string name="tf_phone_label">Kisi Telefon</string>
+    <string name="tf_name_placeholder">İsim giriniz</string>
+    <string name="tf_phone_placeholder">Telefon numarasi giriniz</string>
+    <string name="save_button_text">Kaydet</string>
+    <string name="person_detail_screen_title">Kisi Detay</string>
+    <string name="update_button_text">Guncelle</string>
+    <string name="search_text_field">Ara</string>
+    <string name="snackbar_message">Alanları bos bırakamazsınız</string>
+
+
+</resources>
